@@ -1,2 +1,2 @@
 ## Purpose
-This repository is intended to contain a few utility scripts I use for different purposes.
+This repository was intended to contain a few utility scripts used for different purposes, but then it went sideways, and now it's a catch-all for experiments and other stuff written in different languages.
